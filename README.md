@@ -10,10 +10,10 @@ Made by <a href="https://dreamy.neocities.org">Yanadose</a>.
 
 
 ### Base Icons
-<img src="https://raw.githubusercontent.com/clayathan/chaicon/refs/heads/main/previews/chaicon.png?token=GHSAT0AAAAAADAK2VV65M6LKFZRLFV7RAMSZ662AOA" alt="Base Icons">
+<img src="https://i.imgur.com/SDYyRI3.png" alt="Base Icons">
 
 ### UI Icons (Nostalgia Theme)
-<img src="https://raw.githubusercontent.com/clayathan/chaicon/refs/heads/main/previews/chaicon-ui-nostalgia.png?token=GHSAT0AAAAAADAK2VV63GJF3X5IG52F765WZ662ATA" alt="UI Icons - Nostalgia Theme">
+<img src="https://i.imgur.com/VWzUNGn.png" alt="UI Icons - Nostalgia Theme">
 
 ### Small Icons / Addons for Base Icons
-<img src="https://raw.githubusercontent.com/clayathan/chaicon/refs/heads/main/previews/chaicon_small.png?token=GHSAT0AAAAAADAK2VV75BI77PMMQEYVJXZIZ662APQ" alt="Small Icons">
+<img src="https://i.imgur.com/7Knpsh9.png" alt="Small Icons">
